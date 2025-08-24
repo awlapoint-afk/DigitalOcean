@@ -1,6 +1,5 @@
 import os
 import sys
-
 from pydo import Client
 
 if len(sys.argv) < 2:
